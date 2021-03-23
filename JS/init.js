@@ -1,4 +1,4 @@
-firebase.iniciar({
+firebase.initializeApp({
 apiKey: "AIzaSyBoiQiQIIoSbGZFDKhjXFYCYf9NZbc2DwQ",
     authDomain: "autentifica42scja.firebaseapp.com",
     projectId: "autentifica42scja",
