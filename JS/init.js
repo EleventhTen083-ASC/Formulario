@@ -1,6 +1,6 @@
 
   firebase.initializeApp({
-    apiKey: "AIzaSyBoiQiQIIoSbGZFDKhjXFYCYf9NZbc2DwQ",
+   apiKey: "AIzaSyBoiQiQIIoSbGZFDKhjXFYCYf9NZbc2DwQ",
     authDomain: "autentifica42scja.firebaseapp.com",
     projectId: "autentifica42scja",
     storageBucket: "autentifica42scja.appspot.com",
