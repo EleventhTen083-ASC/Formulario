@@ -1,5 +1,5 @@
 
-  var firebaseConfig = {
+  firebase.initializeApp({
     apiKey: "AIzaSyBoiQiQIIoSbGZFDKhjXFYCYf9NZbc2DwQ",
     authDomain: "autentifica42scja.firebaseapp.com",
     projectId: "autentifica42scja",
@@ -9,5 +9,5 @@
     measurementId: "G-KMM8QVLV4D"
   };
   // Initialize Firebase
-  firebase.initializeApp(firebaseConfig);
+  
   firebase.analytics();
